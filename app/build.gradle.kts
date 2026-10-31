@@ -21,3 +21,8 @@ android {
         buildConfig = true
     }
 }
+
+dependencies {
+    implementation(platform("com.google.firebase:firebase-bom:34.4.0"))
+    implementation("com.google.firebase:firebase-auth")
+}
