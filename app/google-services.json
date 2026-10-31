@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352666438662",
+    "project_id": "worldefootballtournament",
+    "storage_bucket": "worldefootballtournament.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352666438662:android:bc5ae38a2c46312772c787",
+        "android_client_info": {
+          "package_name": "com.worldefootball.tournament"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpBENan7XDsQWIQcEexPw-d6yDpsR2qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
